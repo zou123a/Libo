@@ -1,3 +1,1 @@
-[跳转到releases进行下载](releases)
-
-<a>(releases)</a>
+[跳转到releases](releases)
