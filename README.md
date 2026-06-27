@@ -1,1 +1,1 @@
-[跳转到releases进行下载](https://github.com/zou123a/Libo/releases)
+[跳转到releases](https://github.com/zou123a/Libo/releases)
